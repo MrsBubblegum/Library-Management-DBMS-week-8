@@ -31,9 +31,7 @@ That's it! Your database is now ready for use.
 
 Here is a simplified ERD showing the relationships between tables:
 
-![Library Management ERD](ERD final week assignment library management.png)
-
-*If image does not load, you can [view it directly here](https://i.imgur.com/9jJWa2Z.png).*
+![ERD](./ERD final week assignment library management.png)
 
 - MySQL Workbench (Model tab)
 
